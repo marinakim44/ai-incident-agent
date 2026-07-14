@@ -139,6 +139,15 @@ It is not a complete incident management platform and does not include:
 
 Those components will vary depending on the environment in which the agent is deployed.
 
+So before using this repository, I recommend the following:
+
+- identify the environment you want to the agent to monitor
+- analyse components of the environment
+- adjust AI agent tools
+- adjust Terraform script and deploy environment suitable for your app
+- adjust environment and other configs as stated in this README
+- refer to default README available in incidentagent folder for AgentCore
+
 # Contributing
 
 Issues and pull requests are welcome.
