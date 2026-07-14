@@ -1,0 +1,8 @@
+[
+  {
+    "name": "default",
+    "description": "Replace with your AWS account details",
+    "account": "<YOUR_AWS_ACCOUNT_ID>",
+    "region": "<YOUR_AWS_REGION>"
+  }
+]
